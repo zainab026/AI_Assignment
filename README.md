@@ -87,4 +87,4 @@ This project successfully demonstrates the use of Linear Regression to predict e
 ---
 
 ## 7. GitHub Repository
-https://github.com/zainab026?tab=repositories
+https://github.com/zainab026/AI_Assignment
